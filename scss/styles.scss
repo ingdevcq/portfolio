@@ -2,9 +2,7 @@
     Title: Dev Portfolio Template
     Version: 1.2.2
     Last Change: 03/25/2020
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Author: Christian Quinde
 
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
@@ -34,8 +32,8 @@
 */
 
 // Define base and accent colors
-$base-color: #3498db;
-$base-color-hover: darken($base-color, 10%);
+$base-color: #e5f5ff;
+$base-color-hover: darken($base-color, 100%);
 
 // Define background colors
 $background: #fff;
